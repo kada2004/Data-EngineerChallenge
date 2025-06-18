@@ -6,7 +6,7 @@
 2. Grow as a Data Engineer
 3. Advance My Career
 
- **Week 2 Roadmap**
+**Week 2 Roadmap**
 
 1. This week, I’m focusing on continuing to build my Modern Data Stack project.
 2. I’ll keep working on the FastAPI → Kafka → Spark pipeline.
